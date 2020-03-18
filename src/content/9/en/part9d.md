@@ -1320,7 +1320,7 @@ Extend your solution so that it displays error message if some required values a
 
 Extend your solution to support <i>two</i> entry types and displays error message if some required values are missing. You do not need to care about the possible errors in the server's response.
 
-The easiest but surely not the most elegant way to do this exercise is to have a separate form for each different entry type or formatted incorrectly. Getting the types to work properly might be a slight challenge if you use just a single form.
+The easiest but surely not the most elegant way to do this exercise is to have a separate form for each different entry type. Getting the types to work properly might be a slight challenge if you use just a single form.
 
 #### 9.27: patientor, step12
 
